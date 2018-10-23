@@ -1,5 +1,23 @@
+"""
+File: purdue_user.py
 
+Contains the class definition for a User object, a simple class with
+attributes for a valid Purdue login. This could be a little better executed,
+but it works and it doesn't have to much.
+"""
+
+
+#------------------------------------------------------------------------------
+
+
+"""
+Imports
+"""
 from os_kit import get_cwd, get_dir
+
+
+#------------------------------------------------------------------------------
+
 
 class User:
     """
@@ -32,6 +50,8 @@ class User:
                 self.password = ''
 
 
+    #--------------------------------------------------------------------------
+
 
     def save(self, *args, **kwargs):
         """
@@ -54,8 +74,3 @@ class User:
                 f.close()
         except NameError:
             print('Error saving user data: no file path provided')
-
-
-
-user = User(username = 'chang529', password = '#password')
-user.save('mc.json')

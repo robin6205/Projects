@@ -1,14 +1,24 @@
 """
 File: os_kit.py
 
+
 A collection of code snippets that are useful for operating-system functions.
 Not intended to be static, functions and classes will be added on an as-needed
 basis.
 """
 
 
+#------------------------------------------------------------------------------
 
+
+"""
+Imports
+"""
 import os
+
+
+#------------------------------------------------------------------------------
+
 
 def get_cwd():
     """
@@ -18,7 +28,7 @@ def get_cwd():
     return(os.getcwd())
 
 
-
+#------------------------------------------------------------------------------
 
 
 def log_error(error):
@@ -28,7 +38,7 @@ def log_error(error):
     print(error)
 
 
-
+#------------------------------------------------------------------------------
 
 
 def make_dir(directory):
@@ -45,7 +55,7 @@ def make_dir(directory):
         log_error(error)
 
 
-
+#------------------------------------------------------------------------------
 
 
 def get_dir(directory):
@@ -62,3 +72,6 @@ def get_dir(directory):
 
     make_dir(new_directory)
     return(new_directory)
+
+
+#------------------------------------------------------------------------------
