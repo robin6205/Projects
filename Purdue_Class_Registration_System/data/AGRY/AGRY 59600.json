@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "10",
+        "ATR": "Upper Division",
+        "CAP": "10",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "15905",
+        "CRS": "59600",
+        "DAY": "T",
+        "DTE": "08/20-12/08",
+        "INS": "Michael Larry Mashtare (P)",
+        "LKS": " ",
+        "LOC": "LILY 3409",
+        "NTS": " ",
+        "REM": "0",
+        "REQ": "",
+        "SBJ": "AGRY",
+        "SEC": "001",
+        "TME": "01:30 pm-02:20 pm",
+        "TTL": "Professional Presentations",
+        "TYP": "Lecture"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "13",
+        "ATR": " ",
+        "CAP": "32",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "13556",
+        "CRS": "63200",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Kathleen Howell (P)",
+        "LKS": " ",
+        "LOC": "ARMS 3115",
+        "NTS": " ",
+        "REM": "19",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "09:30 am-10:20 am",
+        "TTL": "Advanced Orbital Dynamics",
+        "TYP": "Lecture"
+    }
+}

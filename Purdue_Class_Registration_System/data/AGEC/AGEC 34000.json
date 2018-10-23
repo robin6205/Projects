@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "38",
+        "ATR": "Upper Division",
+        "CAP": "150",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "17139",
+        "CRS": "34000",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "John H Sanders (P)",
+        "LKS": " ",
+        "LOC": "ARMS 1010",
+        "NTS": " ",
+        "REM": "112",
+        "REQ": "",
+        "SBJ": "AGEC",
+        "SEC": "001",
+        "TME": "12:00 pm-01:15 pm",
+        "TTL": "International Economic Development",
+        "TYP": "Lecture"
+    }
+}

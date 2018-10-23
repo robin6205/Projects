@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "2",
+        "ATR": "Upper Division",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "10689",
+        "CRS": "56700",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "John R Peterson (P)",
+        "LKS": " ",
+        "LOC": "PHYS 338",
+        "NTS": " ",
+        "REM": "18",
+        "REQ": "",
+        "SBJ": "ASTR",
+        "SEC": "001",
+        "TME": "01:30 pm-02:20 pm",
+        "TTL": "Observational Techniques In Astronomy",
+        "TYP": "Lecture"
+    }
+}

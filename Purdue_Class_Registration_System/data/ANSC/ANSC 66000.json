@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "1",
+        "ATR": " ",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "19954",
+        "CRS": "66000",
+        "DAY": "W",
+        "DTE": "08/20-12/08",
+        "INS": "Arun K Bhunia (P), Timothy A Johnson",
+        "LKS": " ",
+        "LOC": "NLSN 2187",
+        "NTS": " ",
+        "REM": "19",
+        "REQ": "",
+        "SBJ": "ANSC",
+        "SEC": "001",
+        "TME": "04:00 pm-04:50 pm",
+        "TTL": "Intestinal Microbiology And Immunology",
+        "TYP": "Lecture"
+    }
+}

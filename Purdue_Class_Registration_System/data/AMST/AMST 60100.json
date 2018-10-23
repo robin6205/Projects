@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "5",
+        "ATR": " ",
+        "CAP": "24",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "15781",
+        "CRS": "60100",
+        "DAY": "T",
+        "DTE": "08/20-12/08",
+        "INS": "Cheryl A Cooky (P)",
+        "LKS": " ",
+        "LOC": "HEAV G004",
+        "NTS": " ",
+        "REM": "19",
+        "REQ": "",
+        "SBJ": "AMST",
+        "SEC": "001",
+        "TME": "01:30 pm-04:20 pm",
+        "TTL": "Introduction To American Studies",
+        "TYP": "Lecture"
+    }
+}

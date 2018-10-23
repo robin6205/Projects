@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "0",
+        "ATR": "Upper Division",
+        "CAP": "24",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "20597",
+        "CRS": "43200",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Michael E Baldwin (P)",
+        "LKS": " ",
+        "LOC": "HAMP 4251",
+        "NTS": " ",
+        "REM": "24",
+        "REQ": "",
+        "SBJ": "AGRY",
+        "SEC": "001",
+        "TME": "01:30 pm-02:45 pm",
+        "TTL": "Atmospheric Dynamics I",
+        "TYP": "Lecture"
+    }
+}

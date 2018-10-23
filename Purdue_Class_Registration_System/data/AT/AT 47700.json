@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "0",
+        "ATR": "Upper Division",
+        "CAP": "4",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "69567",
+        "CRS": "47700",
+        "DAY": " ",
+        "DTE": "08/20-12/08",
+        "INS": "John M Davis (P)",
+        "LKS": " ",
+        "LOC": "TBA",
+        "NTS": " ",
+        "REM": "4",
+        "REQ": "",
+        "SBJ": "AT",
+        "SEC": "001",
+        "TME": "TBA",
+        "TTL": "Aircraft Maintenance Practicum",
+        "TYP": "Experiential"
+    }
+}

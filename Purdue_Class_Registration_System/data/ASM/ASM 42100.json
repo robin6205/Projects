@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "33",
+        "ATR": "Dept Credit and Upper Division",
+        "CAP": "45",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "11143",
+        "CRS": "42100",
+        "DAY": "M",
+        "DTE": "08/20-12/08",
+        "INS": "Dennis Rene Buckmaster (P)",
+        "LKS": " ",
+        "LOC": "LILY G420",
+        "NTS": " ",
+        "REM": "12",
+        "REQ": "",
+        "SBJ": "ASM",
+        "SEC": "001",
+        "TME": "11:30 am-12:20 pm",
+        "TTL": "Senior Seminar",
+        "TYP": "Lecture"
+    }
+}

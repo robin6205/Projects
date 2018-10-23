@@ -1,0 +1,24 @@
+{
+    "004": {
+        "ACT": "6",
+        "ATR": "Upper Division",
+        "CAP": "35",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "54758",
+        "CRS": "55200",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Roman Michael Keeney (P)",
+        "LKS": " ",
+        "LOC": "KRAN G002",
+        "NTS": " ",
+        "REM": "29",
+        "REQ": "",
+        "SBJ": "AGEC",
+        "SEC": "004",
+        "TME": "01:30 pm-02:45 pm",
+        "TTL": "Introduction To Mathematical Programming",
+        "TYP": "Lecture"
+    }
+}

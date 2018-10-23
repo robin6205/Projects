@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "34",
+        "ATR": "Upper Division",
+        "CAP": "43",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "20406",
+        "CRS": "45000",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Sadegh Dabiri (P)",
+        "LKS": " ",
+        "LOC": "PAO B157",
+        "NTS": " ",
+        "REM": "9",
+        "REQ": "",
+        "SBJ": "ABE",
+        "SEC": "001",
+        "TME": "08:30 am-09:20 am",
+        "TTL": "Finite Element Method In Design And Optimization",
+        "TYP": "Lecture"
+    }
+}

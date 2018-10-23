@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "25",
+        "ATR": "Upper Division",
+        "CAP": "35",
+        "CMP": "PWL",
+        "CRD": "4.000",
+        "CRN": "53421",
+        "CRS": "43100",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Amy L Cochran (P), W Scott Downey",
+        "LKS": " ",
+        "LOC": "KRAN G002",
+        "NTS": " ",
+        "REM": "10",
+        "REQ": "",
+        "SBJ": "AGEC",
+        "SEC": "001",
+        "TME": "08:30 am-10:20 am",
+        "TTL": "Advanced Agri-Sales And Marketing",
+        "TYP": "Lecture"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "2",
+        "ATR": " ",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "46084",
+        "CRS": "63300",
+        "DAY": "F",
+        "DTE": "08/20-12/08",
+        "INS": "Michael S Delgado (P), Brigitte S Waldorf",
+        "LKS": " ",
+        "LOC": "RAWL 1071",
+        "NTS": " ",
+        "REM": "18",
+        "REQ": "",
+        "SBJ": "AGEC",
+        "SEC": "001",
+        "TME": "03:30 pm-04:20 pm",
+        "TTL": "Advanced Topics In Space, Health, And Population Economics",
+        "TYP": "Lecture"
+    }
+}

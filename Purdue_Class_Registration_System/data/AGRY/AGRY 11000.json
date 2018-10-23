@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "1",
+        "ATR": "Lower Division",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "19614",
+        "CRS": "11000",
+        "DAY": "T",
+        "DTE": "08/20-12/08",
+        "INS": "Cale A Bigelow (P)",
+        "LKS": " ",
+        "LOC": "HGRH 1104",
+        "NTS": "Special Fees Required",
+        "REM": "19",
+        "REQ": " ",
+        "SBJ": "AGRY",
+        "SEC": "001",
+        "TME": "03:30 pm-05:20 pm",
+        "TTL": "Survey Of Turfgrass Culture",
+        "TYP": "Laboratory"
+    }
+}

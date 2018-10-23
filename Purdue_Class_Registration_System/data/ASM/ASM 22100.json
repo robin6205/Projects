@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "36",
+        "ATR": "Lower Division",
+        "CAP": "40",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "11128",
+        "CRS": "22100",
+        "DAY": "T",
+        "DTE": "08/20-12/08",
+        "INS": "Daniel R Ess (P)",
+        "LKS": " ",
+        "LOC": "LILY 3418",
+        "NTS": " ",
+        "REM": "4",
+        "REQ": "",
+        "SBJ": "ASM",
+        "SEC": "001",
+        "TME": "11:30 am-12:20 pm",
+        "TTL": "Career Opportunities Seminar",
+        "TYP": "Lecture"
+    }
+}

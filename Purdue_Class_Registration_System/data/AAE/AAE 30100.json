@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "175",
+        "ATR": "Upper Division",
+        "CAP": "175",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "10010",
+        "CRS": "30100",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Arthur E Frazho (P)",
+        "LKS": " ",
+        "LOC": "EE 129",
+        "NTS": " ",
+        "REM": "0",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "03:30 pm-04:20 pm",
+        "TTL": "Signal Analysis For Aerospace Engineering",
+        "TYP": "Lecture"
+    }
+}

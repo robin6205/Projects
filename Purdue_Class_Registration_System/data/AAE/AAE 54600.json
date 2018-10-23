@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "20",
+        "ATR": "Upper Division",
+        "CAP": "32",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "10081",
+        "CRS": "54600",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "James Francis Doyle (P)",
+        "LKS": " ",
+        "LOC": "ARMS 3115",
+        "NTS": " ",
+        "REM": "12",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "03:00 pm-04:15 pm",
+        "TTL": "Aerospace Structural Dynamics And Stability",
+        "TYP": "Lecture"
+    }
+}

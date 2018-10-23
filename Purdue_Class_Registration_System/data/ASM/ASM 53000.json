@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "12",
+        "ATR": "Upper Division",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "16532",
+        "CRS": "53000",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Daniel R Ess (P)",
+        "LKS": " ",
+        "LOC": "LILY 3418",
+        "NTS": " ",
+        "REM": "8",
+        "REQ": "",
+        "SBJ": "ASM",
+        "SEC": "001",
+        "TME": "12:30 pm-01:20 pm",
+        "TTL": "Power And Machinery Management",
+        "TYP": "Lecture"
+    }
+}

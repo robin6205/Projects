@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "119",
+        "ATR": "Upper Division",
+        "CAP": "150",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "11918",
+        "CRS": "56100",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Steven S Broyles (P)",
+        "LKS": " ",
+        "LOC": "SMTH 108",
+        "NTS": " ",
+        "REM": "31",
+        "REQ": "",
+        "SBJ": "BCHM",
+        "SEC": "001",
+        "TME": "08:30 am-09:20 am",
+        "TTL": "General Biochemistry I",
+        "TYP": "Lecture"
+    }
+}

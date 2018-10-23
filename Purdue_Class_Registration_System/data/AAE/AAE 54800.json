@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "14",
+        "ATR": "Upper Division",
+        "CAP": "49",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "23213",
+        "CRS": "54800",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Michael D Sangid (P)",
+        "LKS": " ",
+        "LOC": "WANG 2555",
+        "NTS": " ",
+        "REM": "35",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "09:00 am-10:15 am",
+        "TTL": "Mechanical Behavior Of Aerospace Materials",
+        "TYP": "Lecture"
+    }
+}

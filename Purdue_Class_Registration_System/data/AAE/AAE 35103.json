@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "100",
+        "ATR": "Upper Division",
+        "CAP": "75",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "14824",
+        "CRS": "35103",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Nicoletta Fala (P)",
+        "LKS": " ",
+        "LOC": "WALC 3087",
+        "NTS": " ",
+        "REM": "-25",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "04:30 pm-05:45 pm",
+        "TTL": "Aerospace Systems Design",
+        "TYP": "Lecture"
+    }
+}

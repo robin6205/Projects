@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "12",
+        "ATR": " ",
+        "CAP": "32",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "19853",
+        "CRS": "66800",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Inseok Hwang (P)",
+        "LKS": " ",
+        "LOC": "ARMS 3115",
+        "NTS": " ",
+        "REM": "20",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "09:00 am-10:15 am",
+        "TTL": "Hybrid Systems: Theory And Analysis",
+        "TYP": "Lecture"
+    }
+}

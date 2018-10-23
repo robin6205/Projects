@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "2",
+        "ATR": "Upper Division",
+        "CAP": "32",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "46310",
+        "CRS": "56100",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Matthew L Lister (P)",
+        "LKS": " ",
+        "LOC": "PHYS 338",
+        "NTS": " ",
+        "REM": "30",
+        "REQ": "",
+        "SBJ": "ASTR",
+        "SEC": "001",
+        "TME": "12:30 pm-01:20 pm",
+        "TTL": "Galaxies And Large Scale Structure",
+        "TYP": "Lecture"
+    }
+}

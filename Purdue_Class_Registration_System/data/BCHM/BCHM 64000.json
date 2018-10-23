@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "1",
+        "ATR": " ",
+        "CAP": "25",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "21599",
+        "CRS": "64000",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Natalia Doudareva (P), Joshua R Widhalm",
+        "LKS": " ",
+        "LOC": "HORT 217",
+        "NTS": " ",
+        "REM": "24",
+        "REQ": "",
+        "SBJ": "BCHM",
+        "SEC": "001",
+        "TME": "01:30 pm-02:45 pm",
+        "TTL": "Metabolic Plant Physiology",
+        "TYP": "Lecture"
+    }
+}

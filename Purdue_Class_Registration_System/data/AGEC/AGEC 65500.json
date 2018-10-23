@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "2",
+        "ATR": " ",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "10141",
+        "CRS": "65500",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Kenneth Alan Foster (P)",
+        "LKS": " ",
+        "LOC": "RAWL 1071",
+        "NTS": " ",
+        "REM": "18",
+        "REQ": "",
+        "SBJ": "AGEC",
+        "SEC": "001",
+        "TME": "04:30 pm-05:45 pm",
+        "TTL": "Applied Economic Time Series Analysis",
+        "TYP": "Lecture"
+    }
+}

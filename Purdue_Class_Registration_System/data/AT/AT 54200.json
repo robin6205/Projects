@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "20",
+        "ATR": "Upper Division",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "69566",
+        "CRS": "54200",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Brian John Kozak (P)",
+        "LKS": " ",
+        "LOC": "NISW 184",
+        "NTS": " ",
+        "REM": "0",
+        "REQ": "",
+        "SBJ": "AT",
+        "SEC": "001",
+        "TME": "03:00 pm-04:15 pm",
+        "TTL": "Aviation Fuels And Exhaust Emissions",
+        "TYP": "Lecture"
+    }
+}

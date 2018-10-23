@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "11",
+        "ATR": "Upper Division",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "15435",
+        "CRS": "51400",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Christopher Alan Bidwell (P)",
+        "LKS": " ",
+        "LOC": "BRNG B286",
+        "NTS": " ",
+        "REM": "9",
+        "REQ": "",
+        "SBJ": "ANSC",
+        "SEC": "001",
+        "TME": "09:00 am-10:15 am",
+        "TTL": "Animal Biotechnology",
+        "TYP": "Lecture"
+    }
+}

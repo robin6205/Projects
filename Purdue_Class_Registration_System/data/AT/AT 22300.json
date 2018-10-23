@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "51",
+        "ATR": "Dept Credit and Lower Division",
+        "CAP": "55",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "57194",
+        "CRS": "22300",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Flavio A Coimbra Mendonca (P), Cheng Wang",
+        "LKS": " ",
+        "LOC": "NISW 157",
+        "NTS": " ",
+        "REM": "4",
+        "REQ": "",
+        "SBJ": "AT",
+        "SEC": "001",
+        "TME": "08:30 am-09:20 am",
+        "TTL": "Human Factors For Flight Crews",
+        "TYP": "Lecture"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "6",
+        "ATR": "Upper Division",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "63783",
+        "CRS": "48000",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Jianxin Ma (P), Torbert R Rocheford",
+        "LKS": " ",
+        "LOC": "LILY 3410",
+        "NTS": " ",
+        "REM": "14",
+        "REQ": "",
+        "SBJ": "AGRY",
+        "SEC": "001",
+        "TME": "09:00 am-10:15 am",
+        "TTL": "Plant Genetics",
+        "TYP": "Lecture"
+    }
+}

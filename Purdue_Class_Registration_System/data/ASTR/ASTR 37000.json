@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "20",
+        "ATR": "Upper Division",
+        "CAP": "45",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "11176",
+        "CRS": "37000",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Kyoung-Soo Lee (P)",
+        "LKS": " ",
+        "LOC": "FRNY B124",
+        "NTS": " ",
+        "REM": "25",
+        "REQ": "",
+        "SBJ": "ASTR",
+        "SEC": "001",
+        "TME": "12:00 pm-01:15 pm",
+        "TTL": "Cosmology",
+        "TYP": "Lecture"
+    }
+}

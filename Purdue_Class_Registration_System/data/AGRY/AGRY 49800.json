@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "50",
+        "ATR": "Dept Credit and Upper Division",
+        "CAP": "50",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "38344",
+        "CRS": "49800",
+        "DAY": "M",
+        "DTE": "08/20-12/08",
+        "INS": "Corey Kent Gerber (P)",
+        "LKS": " ",
+        "LOC": "LILY 3410",
+        "NTS": " ",
+        "REM": "0",
+        "REQ": " ",
+        "SBJ": "AGRY",
+        "SEC": "001",
+        "TME": "03:30 pm-04:20 pm",
+        "TTL": "Agronomy Senior Seminar",
+        "TYP": "Lecture"
+    }
+}

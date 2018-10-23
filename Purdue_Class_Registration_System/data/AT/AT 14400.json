@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "12",
+        "ATR": "Credit By Exam and Dept Credit and Lower Division",
+        "CAP": "65",
+        "CMP": "PWL",
+        "CRD": "4.000",
+        "CRN": "67659",
+        "CRS": "14400",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Brian Glenn Dillman (P)",
+        "LKS": " ",
+        "LOC": "MJIS 1001",
+        "NTS": " ",
+        "REM": "53",
+        "REQ": "",
+        "SBJ": "AT",
+        "SEC": "001",
+        "TME": "09:30 am-11:20 am",
+        "TTL": "Private Pilot Lectures",
+        "TYP": "Lecture"
+    }
+}

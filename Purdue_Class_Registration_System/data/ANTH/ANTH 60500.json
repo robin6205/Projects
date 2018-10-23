@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "7",
+        "ATR": " ",
+        "CAP": "12",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "56239",
+        "CRS": "60500",
+        "DAY": "W",
+        "DTE": "08/20-12/08",
+        "INS": "Andrew T Flachs (P)",
+        "LKS": " ",
+        "LOC": "STON 154",
+        "NTS": " ",
+        "REM": "5",
+        "REQ": "",
+        "SBJ": "ANTH",
+        "SEC": "001",
+        "TME": "04:30 pm-07:20 pm",
+        "TTL": "Seminar In Ethnographic Analysis",
+        "TYP": "Lecture"
+    }
+}

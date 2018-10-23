@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "5",
+        "ATR": " ",
+        "CAP": "10",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "52145",
+        "CRS": "60000",
+        "DAY": "R",
+        "DTE": "08/20-12/08",
+        "INS": "Charles Andrew Gick (P)",
+        "LKS": " ",
+        "LOC": "FPRD 201",
+        "NTS": " ",
+        "REM": "5",
+        "REQ": "",
+        "SBJ": "AD",
+        "SEC": "001",
+        "TME": "07:00 pm-09:50 pm",
+        "TTL": "Painting",
+        "TYP": "Lecture"
+    }
+}

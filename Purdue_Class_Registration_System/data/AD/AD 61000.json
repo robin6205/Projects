@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "3",
+        "ATR": " ",
+        "CAP": "6",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "14232",
+        "CRS": "61000",
+        "DAY": "F",
+        "DTE": "08/20-12/08",
+        "INS": "Li Zhang (P)",
+        "LKS": " ",
+        "LOC": "PAO B173",
+        "NTS": " ",
+        "REM": "3",
+        "REQ": "",
+        "SBJ": "AD",
+        "SEC": "001",
+        "TME": "02:30 pm-05:20 pm",
+        "TTL": "Advanced Poster Design",
+        "TYP": "Lecture"
+    }
+}

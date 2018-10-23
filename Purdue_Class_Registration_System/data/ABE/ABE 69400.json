@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "6",
+        "ATR": " ",
+        "CAP": "35",
+        "CMP": "PWL",
+        "CRD": "0.000",
+        "CRN": "68108",
+        "CRS": "69400",
+        "DAY": "F",
+        "DTE": "08/20-12/08",
+        "INS": "Nathan Scott Mosier (P)",
+        "LKS": " ",
+        "LOC": "LILY 3418",
+        "NTS": " ",
+        "REM": "29",
+        "REQ": "",
+        "SBJ": "ABE",
+        "SEC": "001",
+        "TME": "03:30 pm-04:20 pm",
+        "TTL": "Graduate Research Training",
+        "TYP": "Lecture"
+    }
+}

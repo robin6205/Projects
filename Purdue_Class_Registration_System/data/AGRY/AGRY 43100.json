@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "1",
+        "ATR": "Upper Division",
+        "CAP": "24",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "16526",
+        "CRS": "43100",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": ". Harshvardhan (P)",
+        "LKS": " ",
+        "LOC": "HAMP 4251",
+        "NTS": " ",
+        "REM": "23",
+        "REQ": "",
+        "SBJ": "AGRY",
+        "SEC": "001",
+        "TME": "10:30 am-11:45 am",
+        "TTL": "Atmospheric Thermodynamics",
+        "TYP": "Lecture"
+    }
+}

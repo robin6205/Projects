@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "0",
+        "ATR": "Lower Division",
+        "CAP": "30",
+        "CMP": "PWL",
+        "CRD": "0.500",
+        "CRN": "36240",
+        "CRS": "11700",
+        "DAY": "W",
+        "DTE": "08/20-10/16",
+        "INS": "Jonathan Jewell Neal (P)",
+        "LKS": " ",
+        "LOC": "REC 315",
+        "NTS": "Beginning Freshmen Only",
+        "REM": "30",
+        "REQ": "",
+        "SBJ": "AGR",
+        "SEC": "001",
+        "TME": "03:30 pm-05:20 pm",
+        "TTL": "Introduction To Entomology Academic Programs",
+        "TYP": "Lecture"
+    }
+}

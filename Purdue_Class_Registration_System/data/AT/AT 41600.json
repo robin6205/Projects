@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "24",
+        "ATR": "Dept Credit and Upper Division",
+        "CAP": "28",
+        "CMP": "PWL",
+        "CRD": "2.000",
+        "CRN": "57301",
+        "CRS": "41600",
+        "DAY": "W",
+        "DTE": "08/20-12/08",
+        "INS": "TBA",
+        "LKS": " ",
+        "LOC": "NISW 184",
+        "NTS": " ",
+        "REM": "4",
+        "REQ": "",
+        "SBJ": "AT",
+        "SEC": "001",
+        "TME": "01:30 pm-03:20 pm",
+        "TTL": "Airline Indoctrination",
+        "TYP": "Lecture"
+    }
+}

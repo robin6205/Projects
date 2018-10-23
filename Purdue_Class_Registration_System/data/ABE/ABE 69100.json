@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "0",
+        "ATR": "Variable Title",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "18409",
+        "CRS": "69100",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "David M Umulis (P)",
+        "LKS": " ",
+        "LOC": "MJIS 1083",
+        "NTS": " ",
+        "REM": "20",
+        "REQ": "",
+        "SBJ": "ABE",
+        "SEC": "001",
+        "TME": "01:30 pm-02:45 pm",
+        "TTL": "Quantitative Systems Biology",
+        "TYP": "Lecture"
+    }
+}

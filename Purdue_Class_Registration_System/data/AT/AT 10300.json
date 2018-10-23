@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "43",
+        "ATR": "Credit By Exam and Dept Credit and Lower Division",
+        "CAP": "60",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "56811",
+        "CRS": "10300",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Peng Hao Wang (P)",
+        "LKS": " ",
+        "LOC": "NISW 149",
+        "NTS": " ",
+        "REM": "17",
+        "REQ": "",
+        "SBJ": "AT",
+        "SEC": "001",
+        "TME": "09:30 am-10:20 am",
+        "TTL": "Aerospace Vehicle Propulsion And Tracking Systems",
+        "TYP": "Lecture"
+    }
+}

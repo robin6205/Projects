@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "32",
+        "ATR": "Upper Division",
+        "CAP": "60",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "16551",
+        "CRS": "56400",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Martin Corless (P)",
+        "LKS": " ",
+        "LOC": "ARMS 1109",
+        "NTS": " ",
+        "REM": "28",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "01:30 pm-02:45 pm",
+        "TTL": "Systems Analysis And Synthesis",
+        "TYP": "Lecture"
+    }
+}

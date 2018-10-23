@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "56",
+        "ATR": "Lower Division",
+        "CAP": "60",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "10002",
+        "CRS": "20400",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "TBA",
+        "LKS": " ",
+        "LOC": "LWSN B155",
+        "NTS": " ",
+        "REM": "4",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "08:30 am-09:20 am",
+        "TTL": "Aeromechanics II",
+        "TYP": "Lecture"
+    }
+}

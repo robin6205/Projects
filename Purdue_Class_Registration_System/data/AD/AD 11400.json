@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "12",
+        "ATR": "Lower Division",
+        "CAP": "15",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "10208",
+        "CRS": "11400",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Robert E Mahorney (P)",
+        "LKS": " ",
+        "LOC": "PAO 3104",
+        "NTS": "$100 course fee.\nSpecial Fees Required",
+        "REM": "3",
+        "REQ": "",
+        "SBJ": "AD",
+        "SEC": "001",
+        "TME": "11:30 am-02:20 pm",
+        "TTL": "Drawing II",
+        "TYP": "Studio"
+    }
+}

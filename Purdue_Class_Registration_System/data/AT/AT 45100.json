@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "17",
+        "ATR": "Upper Division",
+        "CAP": "15",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "68446",
+        "CRS": "45100",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Stewart W Schreckengast (P)",
+        "LKS": " ",
+        "LOC": "NISW 157",
+        "NTS": " ",
+        "REM": "-2",
+        "REQ": "",
+        "SBJ": "AT",
+        "SEC": "001",
+        "TME": "01:30 pm-02:20 pm",
+        "TTL": "Airport Operations",
+        "TYP": "Lecture"
+    }
+}

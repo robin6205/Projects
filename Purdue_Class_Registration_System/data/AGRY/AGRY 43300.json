@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "0",
+        "ATR": "Upper Division",
+        "CAP": "24",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "46408",
+        "CRS": "43300",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Wen-Yih Sun (P)",
+        "LKS": " ",
+        "LOC": "HAMP 4251",
+        "NTS": " ",
+        "REM": "24",
+        "REQ": "",
+        "SBJ": "AGRY",
+        "SEC": "001",
+        "TME": "12:00 pm-01:15 pm",
+        "TTL": "Atmospheric Dynamics II",
+        "TYP": "Lecture"
+    }
+}

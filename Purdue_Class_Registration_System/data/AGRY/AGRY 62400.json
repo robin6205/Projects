@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "3",
+        "ATR": " ",
+        "CAP": "15",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "17376",
+        "CRS": "62400",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Yiwei Jiang (P)",
+        "LKS": " ",
+        "LOC": "LILY B367",
+        "NTS": " ",
+        "REM": "12",
+        "REQ": "",
+        "SBJ": "AGRY",
+        "SEC": "001",
+        "TME": "03:00 pm-04:15 pm",
+        "TTL": "Plant Ecophysiology",
+        "TYP": "Lecture"
+    }
+}

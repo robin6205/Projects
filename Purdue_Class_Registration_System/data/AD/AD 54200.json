@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "3",
+        "ATR": "Upper Division",
+        "CAP": "17",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "14230",
+        "CRS": "54200",
+        "DAY": "W",
+        "DTE": "08/20-12/08",
+        "INS": "Zhen Yu Qian (P)",
+        "LKS": " ",
+        "LOC": "PAO B177",
+        "NTS": " ",
+        "REM": "14",
+        "REQ": "",
+        "SBJ": "AD",
+        "SEC": "001",
+        "TME": "06:00 pm-08:50 pm",
+        "TTL": "Information Visualization Design",
+        "TYP": "Lecture"
+    }
+}

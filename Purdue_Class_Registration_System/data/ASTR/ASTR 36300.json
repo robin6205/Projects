@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "69",
+        "ATR": "Upper Division",
+        "CAP": "80",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "11175",
+        "CRS": "36300",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Marc W Caffee (P)",
+        "LKS": " ",
+        "LOC": "PHYS 203",
+        "NTS": " ",
+        "REM": "11",
+        "REQ": "",
+        "SBJ": "ASTR",
+        "SEC": "001",
+        "TME": "09:30 am-10:20 am",
+        "TTL": "The Solar System",
+        "TYP": "Lecture"
+    }
+}

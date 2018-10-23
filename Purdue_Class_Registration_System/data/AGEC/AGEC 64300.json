@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "1",
+        "ATR": " ",
+        "CAP": "10",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "21652",
+        "CRS": "64300",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Jacob E Ricker-Gilbert (P)",
+        "LKS": " ",
+        "LOC": "SMTH 201",
+        "NTS": " ",
+        "REM": "9",
+        "REQ": "",
+        "SBJ": "AGEC",
+        "SEC": "001",
+        "TME": "03:00 pm-04:15 pm",
+        "TTL": "Theory Of Economic Development",
+        "TYP": "Lecture"
+    }
+}

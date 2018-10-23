@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "91",
+        "ATR": "Upper Division",
+        "CAP": "80",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "10023",
+        "CRS": "33400",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Jonathan Poggie (P)",
+        "LKS": " ",
+        "LOC": "PHYS 203",
+        "NTS": " ",
+        "REM": "-11",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "08:30 am-09:20 am",
+        "TTL": "Aerodynamics",
+        "TYP": "Lecture"
+    }
+}

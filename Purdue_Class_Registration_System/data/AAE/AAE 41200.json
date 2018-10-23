@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "35",
+        "ATR": "Upper Division",
+        "CAP": "70",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "10053",
+        "CRS": "41200",
+        "DAY": "MWF",
+        "DTE": "08/20-12/08",
+        "INS": "Gregory A Blaisdell (P)",
+        "LKS": " ",
+        "LOC": "RHPH 164",
+        "NTS": " ",
+        "REM": "35",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "07:30 am-08:20 am",
+        "TTL": "Introduction To Computational Fluid Dynamics",
+        "TYP": "Lecture"
+    }
+}

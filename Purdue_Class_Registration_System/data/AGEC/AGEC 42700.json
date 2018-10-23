@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "42",
+        "ATR": "Upper Division",
+        "CAP": "70",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "53147",
+        "CRS": "42700",
+        "DAY": "TR",
+        "DTE": "08/20-12/08",
+        "INS": "Maria I Marshall (P)",
+        "LKS": " ",
+        "LOC": "HIKS G980D",
+        "NTS": " ",
+        "REM": "28",
+        "REQ": "",
+        "SBJ": "AGEC",
+        "SEC": "001",
+        "TME": "01:30 pm-02:45 pm",
+        "TTL": "Advanced Agribusiness Marketing",
+        "TYP": "Lecture"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "16",
+        "ATR": "Upper Division",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "15431",
+        "CRS": "49000",
+        "DAY": "M",
+        "DTE": "08/20-12/08",
+        "INS": "Sandra S Rossie (P)",
+        "LKS": " ",
+        "LOC": "BCHM 102",
+        "NTS": " ",
+        "REM": "4",
+        "REQ": "",
+        "SBJ": "BCHM",
+        "SEC": "001",
+        "TME": "04:30 pm-05:20 pm",
+        "TTL": "Undergraduate Seminar",
+        "TYP": "Lecture"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "25",
+        "ATR": "Lower Division",
+        "CAP": "40",
+        "CMP": "PWL",
+        "CRD": "1.000",
+        "CRN": "19404",
+        "CRS": "12500",
+        "DAY": "T",
+        "DTE": "08/20-10/16",
+        "INS": "Joseph M Anderson (P), Peter B Goldsbrough",
+        "LKS": " ",
+        "LOC": "LILY 3418",
+        "NTS": " ",
+        "REM": "15",
+        "REQ": "",
+        "SBJ": "AGR",
+        "SEC": "001",
+        "TME": "03:30 pm-05:20 pm",
+        "TTL": "Introduction To Plant Science",
+        "TYP": "Lecture"
+    }
+}

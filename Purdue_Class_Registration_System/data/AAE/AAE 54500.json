@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "8",
+        "ATR": "Upper Division",
+        "CAP": "25",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "23212",
+        "CRS": "54500",
+        "DAY": "MW",
+        "DTE": "08/20-12/08",
+        "INS": "TBA",
+        "LKS": " ",
+        "LOC": "ARMS 3115",
+        "NTS": " ",
+        "REM": "17",
+        "REQ": "",
+        "SBJ": "AAE",
+        "SEC": "001",
+        "TME": "04:30 pm-05:45 pm",
+        "TTL": "Dynamic Behavior Of Materials",
+        "TYP": "Lecture"
+    }
+}

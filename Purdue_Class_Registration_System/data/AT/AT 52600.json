@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "20",
+        "ATR": "Upper Division",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "3.000",
+        "CRN": "14169",
+        "CRS": "52600",
+        "DAY": "T",
+        "DTE": "08/20-12/08",
+        "INS": "Thomas Quentin Carney (P)",
+        "LKS": " ",
+        "LOC": "NISW 184",
+        "NTS": " ",
+        "REM": "0",
+        "REQ": "",
+        "SBJ": "AT",
+        "SEC": "001",
+        "TME": "06:00 pm-08:50 pm",
+        "TTL": "Aviation Leadership",
+        "TYP": "Lecture"
+    }
+}

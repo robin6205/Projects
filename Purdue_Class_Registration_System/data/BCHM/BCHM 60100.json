@@ -1,0 +1,24 @@
+{
+    "001": {
+        "ACT": "16",
+        "ATR": " ",
+        "CAP": "20",
+        "CMP": "PWL",
+        "CRD": "2.000",
+        "CRN": "54500",
+        "CRS": "60100",
+        "DAY": "T",
+        "DTE": "08/20-12/08",
+        "INS": "Elizabeth J Tran (P)",
+        "LKS": " ",
+        "LOC": "BCHM 101",
+        "NTS": " ",
+        "REM": "4",
+        "REQ": "",
+        "SBJ": "BCHM",
+        "SEC": "001",
+        "TME": "08:30 am-10:20 am",
+        "TTL": "Critical Analysis Of Biochemical Research Literature I",
+        "TYP": "Lecture"
+    }
+}
