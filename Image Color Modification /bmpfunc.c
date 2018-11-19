@@ -5,34 +5,27 @@
 #ifdef TEST_FUNCGIVEN
 
 int RGB2Gray(unsigned char red, unsigned char green, unsigned char blue){
-	// this is a commonly used formula
 	int gray = 0.2989 * red + 0.5870 * green + 0.1140 * blue;
 	return gray;
 }
 
 #endif
 
-//Modify below this line and use code from HW10 for IMGTOGRAY()
 
 #ifdef TEST_IMGTOGRAY
 
 BMPImage * ImgToGray(BMPImage * image){
 
-	// use code from your HW10
 	BMPImage *gray_image = (BMPImage *)malloc(sizeof(BMPImage));// allocate space for the image
-	// the image has the same size
-	// therefore the header has to stay the same
-	// check for memory allocation failure
+
 	if(gray_image == NULL){
 		return NULL;
 	}
-	//gray_image can be the name of the new image memory allotment
 	gray_image->header = image->header;
 
 	//Assign the the imagesize as height * width
 	//(gray_image->header).imagesize = (gray_image->header).width*(gray_image->header).height;
 
-	//check for data allocation failure using :
 	if((gray_image->data = malloc(sizeof(unsigned char)*(gray_image->header).imagesize))==NULL){
 		return NULL;
 	}
@@ -51,7 +44,6 @@ BMPImage * ImgToGray(BMPImage * image){
 	pixel+=3;
 }
 }
-	//pixel+=3 to move on to the next 3 channel combination
 
 	return gray_image;
 
@@ -60,7 +52,6 @@ BMPImage * ImgToGray(BMPImage * image){
 
 #endif
 
-//Write your own code for Adaptive Thresholding Function
 #ifdef TEST_ADAPTIVETHRESHOLDING
 
 BMPImage * AdaptiveThresholding(BMPImage * grayImage, int radius, int epsilon){
@@ -69,15 +60,12 @@ BMPImage * AdaptiveThresholding(BMPImage * grayImage, int radius, int epsilon){
 	// therefore the header has to stay the same
 
 	adaptive->header = grayImage->header;
-	// (gray_image->header).imagesize = (gray_image->header).width*(gray_image->header).height;
 	if ((adaptive->data = malloc(sizeof(unsigned char)*(adaptive->header).imagesize)) == NULL) {
 		fprintf(stderr, "Error allocating memory\n");
 		free(adaptive);
 		return NULL;
 	}
 
-	//int pixel=0;
-	//Run a nested loop for all elements using height and width
         //Find the maximum of top row, bottom rpw, left column and right column using radius
 				int height = (grayImage -> header).height;
 					int width = (grayImage -> header).width;
