@@ -1,6 +1,4 @@
-# ***
-# *** DO NOT modify this file
-# ***
+
 
 WARNING = -Wall -Wshadow --pedantic
 ERROR = -Wvla -Werror

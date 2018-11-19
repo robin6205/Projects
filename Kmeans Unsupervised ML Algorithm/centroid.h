@@ -1,6 +1,4 @@
-// ***
-// *** DO NOT modify this file
-// ***
+
 
 #ifndef CENTROID_H
 #define CENTROID_H
@@ -9,7 +7,7 @@
 #include <string.h>
 #include <time.h>
 #include "datapoint.h"
-typedef struct 
+typedef struct
 {
   int dimension;
   int *data;
@@ -25,5 +23,5 @@ int Centroid_cmp (const void *cent1, const void *cent2);
 void Centroid_print (Centroid * cent, FILE * fp);
 void Centroid_free (Centroid * cent);
 void Centroid_freeArray (Centroid * *centroids, int nrows);
- 
-#endif	
+
+#endif

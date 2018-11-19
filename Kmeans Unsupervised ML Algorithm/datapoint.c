@@ -1,16 +1,11 @@
-// ***
-// *** DO NOT modify this file
-// ***
-
-
 #include "datapoint.h"
-// initialize memory for a single datapoint 
+// initialize memory for a single datapoint
 DataPoint * DataPoint_create (int dim)
 {
   DataPoint *dp = malloc (sizeof (*dp));
   dp -> data = malloc(sizeof(* (dp -> data)) * dim);
   dp -> dimension = dim;
-  dp -> cluster = -1; 
+  dp -> cluster = -1;
   return dp;
 }
 

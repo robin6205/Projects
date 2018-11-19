@@ -1,6 +1,4 @@
-// ***
-// *** DO NOT modify this file
-// ***
+
 
 #include "common.h"
 #include <stdlib.h>

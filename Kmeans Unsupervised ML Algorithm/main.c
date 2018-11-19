@@ -1,8 +1,3 @@
-// There are some parts in the file that you need to modify, Please do
-// not modify everything
-
-// Modify only between the block which mentions what to modiy
-// ===== DO NOT MODIFY BELOW THIS ======
 #include "main.h"
 
 void cleanup (FILE * fpin)
@@ -49,10 +44,6 @@ void writeCentroids (const char *filename, Centroid * *centroids, int kval)
 }
 
 
-//===== DO NOT MODIFY ABOVE THIS ======
-
-// Complete the below functions only, do not modify any other function.
-
 #ifdef TEST_DIST
 // distance - funtion to get the distance between present centroid and datapoint
 // @param DataPoint * - pointer to DataPoint structure from which distance needs to be calculated
@@ -68,12 +59,10 @@ distance (const DataPoint * datapoint, const Centroid * centroid)
   int dim = (datapoint -> dimension);
   for(i = 0; i < dim; i++)// find Euclidean distance and then return 'sum' without calling sqrt
   {
-     //datapoint -> * data[i];
-    //* centroid -> * data[i];
+
     diff = ((datapoint ->  data[i]) - (centroid ->  data[i]));
     sum += diff * diff;
-    //total += sum;
-    //sum = 0;
+
   }
 	return sum;
 }
@@ -103,7 +92,6 @@ int closestCentroid (int kval, DataPoint * datapoint, Centroid * *centroids)
       mindex = x;
     }
   }
-  // Please note that return value of distance is long long int, so initialize the values with the same type
   // go through each centroid and find the distance
   // keep track of minimum difference and index of centroid which has the smallest distance
   return mindex;
@@ -117,7 +105,6 @@ int closestCentroid (int kval, DataPoint * datapoint, Centroid * *centroids)
 // nval - # of datapoints
 // datapoints - array of datapoints
 // centroids - array of centroids
-//
 // return the total distances of datapoints from their centroids
 void kmean (int kval, int nval, DataPoint * *datapoints, Centroid * *centroids)
 {
@@ -131,8 +118,6 @@ void kmean (int kval, int nval, DataPoint * *datapoints, Centroid * *centroids)
     {
         datapoints[i] -> cluster = rand() % kval;
         Centroid_addPoint(centroids[datapoints[i] -> cluster], datapoints[i]);
-        //ccentroidindex = closestCentroid(kval, datapoints[i], centroids); //for each datapoint find the cloesest centroid and
-        //datapoints[i] -> cluster = ccentroidindex;
     }
 		for(i = 0; i < kval; i++)
     {
@@ -178,7 +163,6 @@ void kmean (int kval, int nval, DataPoint * *datapoints, Centroid * *centroids)
 
 #endif
 
-/*===== DO NOT MODIFY BELOW THIS ======*/
 int
 main (int argc, char * *argv)
 {
@@ -208,7 +192,7 @@ main (int argc, char * *argv)
       return EXIT_FAILURE;
     }
   // control the random number sequence
-  int randseed = 1729;	// any integer will do, DO NOT CHANGE
+  int randseed = 1729;	
   srand (randseed);
 
   // getting number of datapoints

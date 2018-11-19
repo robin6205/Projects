@@ -1,13 +1,10 @@
-// ***
-// *** DO NOT modify this file
-// ***
 
 #include "centroid.h"
-  
+
 /* Centroid_create: creates a single centroid
-   @param dim - dimension of centroid
-   @param id - id for the centroid
-*/ 
+   param dim - dimension of centroid
+   param id - id for the centroid
+*/
 Centroid * Centroid_create (int dim, int id)
 {
   Centroid * cent = malloc (sizeof (*cent));
@@ -37,41 +34,41 @@ Centroid * *Centroid_createArray (int nrows, int dim)
   return centroids;
 }
 
- 
+
 /* Centroid_reset - function to put all values of centroid to zero
    @param Centroid * - pointer to centroid which needs to be reset
-*/ 
+*/
 void Centroid_reset (Centroid * cent)
 {
   cent->size = 0;
-  
+
   // set all values to zero
   memset (cent->data, 0, sizeof (int) * (cent->dimension));
-}   
+}
 
 /* Centroid_addPoint - function to add points to the centroid
    @param Centroid * - pointer to centroid to which point needs to be added
    @param DataPoint * - pointer to datapoint which is being added to the centroid
-*/ 
+*/
 void
 Centroid_addPoint (Centroid * cent, DataPoint * dp)
 {
   int iter;
-  
+
   // for each dimension, add the value of dp to the centroid
   int dim = cent->dimension;
   for (iter = 0; iter < dim; iter++)
-    
+
     {
       cent->data[iter] += dp->data[iter];
     }
   cent->size++;
 }
 
-  
+
 /* Centroid_findCenter - function to find the present center of the cluster after adding all points to centroids
    @param Centroid * - pointer to centroid whose center is being calculated
-*/ 
+*/
 void
 Centroid_findCenter (Centroid * cent)
 {
@@ -81,20 +78,20 @@ Centroid_findCenter (Centroid * cent)
     }
   int iter;
   int size = cent->size;
-  
+
   // for each dimension, add the value of dp to the centroid
   int dim = cent->dimension;
   for (iter = 0; iter < dim; iter++)
-    
+
     {
       cent->data[iter] /= size;	// integer division
     }
 }
 
- 
+
 /*
   Centroid_cmp - function to compare 2 centroids to be used for sorting
-*/ 
+*/
 int
 Centroid_cmp (const void *ptr1, const void *ptr2)
 {
@@ -112,9 +109,9 @@ Centroid_cmp (const void *ptr1, const void *ptr2)
   return 0;
 }
 
- 
+
 /* Centroid_print - function to print the centroids to a file
- */ 
+ */
 void
 Centroid_print (Centroid * cent, FILE * fp)
 {
@@ -133,18 +130,18 @@ Centroid_print (Centroid * cent, FILE * fp)
   return;
 }
 
- 
+
 /* Centroid_free - function to free the memory for the centroid
- */ 
+ */
 void
 Centroid_free (Centroid * cent)
 {
   free (cent -> data);
   free (cent);
-}  
+}
 
 /* Centroid_freeArray - function to free memory of the centroid array
- */ 
+ */
 void
 Centroid_freeArray (Centroid * *centroids, int nrows)
 {
@@ -156,5 +153,3 @@ Centroid_freeArray (Centroid * *centroids, int nrows)
   free (centroids);
   return;
 }
-
-
