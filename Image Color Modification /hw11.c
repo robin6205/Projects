@@ -24,30 +24,15 @@ int main(int argc, char **argv){
 		if((grayscale == NULL) || (grayscale == 0)){
 			return EXIT_FAILURE;
 		}
-
+    // open the BMP file
+    // convert to gray scale
+  	// check for error in converting to gray scale
     BMPImage * adaptive = AdaptiveThresholding(grayscale, radius, epsilon);
     // check for errors after calling adaptive threshold
     if(adaptive == NULL) {
       return EXIT_FAILURE;
     }
-// write the adaptive threshold image to file
 
- 	// open the BMP file
-  // convert to gray scale
-	// check for error in converting to gray scale
-
-	// write the gray image to file
-	// free all the images
-
-
-  // check the arguments - please read readme about validity of arguments
-  // check radius and epsilon values -  read readme for the validity of argument
-  // open the BMP file
-  // convert to gray scale
-	// check for error in converting to gray scale
-
-  // call adaptive threshold function
-  // check for errors after calling adaptive threshold
   BMP_Write(argv[2], adaptive);
   BMP_Free(image);
   BMP_Free(grayscale);// write the adaptive threshold image to file
