@@ -3,7 +3,7 @@ GCC = gcc
 CFLAGS = -g -std=c99 -Wall -Wshadow -Wvla -Werror -pedantic
 CC = $(GCC) $(CFLAGS)
 
-SRCS = bmpimage.c hw11.c bmpfunc.c #please complete
+SRCS = bmpimage.c hw11.c bmpfunc.c 
 
 OBJS = $(SRCS:%.c=%.o)
 VALGRIND = valgrind --tool=memcheck --verbose --log-file
