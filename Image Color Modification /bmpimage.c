@@ -1,9 +1,7 @@
 #include "bmpimage.h"
-//Include your own code from HW10 and modify this file
 #ifdef TEST_HEADERVALID
 
 int Is_BMPHeader_Valid(BMPHeader* header, FILE *fptr) {
-	// use code from HW10
   if((header -> type) != 0X4D42){
   	return FALSE;
   }
@@ -39,16 +37,11 @@ int Is_BMPHeader_Valid(BMPHeader* header, FILE *fptr) {
 BMPImage *BMP_Open(const char *filename) {
   FILE *fptr = fopen(filename,"r");
 
-
-  //Allocate memory for BMPImage*;
-
   BMPImage *bmpImage = (BMPImage *)malloc(sizeof(BMPImage));
-  //check for memory allocation errors
   if (fptr == NULL){
     return NULL;
   }
 
-  //Read the first 54 bytes of the source into the header
 
   int read_size = fread(&(bmpImage->header), sizeof(BMPHeader), 1, fptr);
   if(read_size != 1){
@@ -57,11 +50,8 @@ BMPImage *BMP_Open(const char *filename) {
   if(Is_BMPHeader_Valid(&(bmpImage -> header), fptr) == 0){
     return NULL;
   }
-  //check if the header is valid
 
-  // Allocate memory for image data
   bmpImage->data = (unsigned char *)malloc(sizeof(unsigned char)*((int)((bmpImage->header).imagesize)));
-  //check error
   if((bmpImage -> data) == NULL){
     return NULL;
   }
@@ -71,7 +61,6 @@ BMPImage *BMP_Open(const char *filename) {
   }
   // read in the image data
 
-  //check for error while reading
 
   fclose(fptr);
   return bmpImage;
@@ -97,15 +86,11 @@ int BMP_Write(const char * outfile, BMPImage* image){
   }
   //check error for writing
 
-  // write and check for image data:(fwrite(image->data, sizeof(unsigned char), (image->header).imagesize, fptr) != (image->header).imagesize)
-
   fclose(fptr);
   return TRUE;
-	// use code from HW10
 }
 
 #endif
-
 
 
 /* The input argument is the BMPImage pointer. The function frees memory of
@@ -120,7 +105,6 @@ void BMP_Free(BMPImage* image) {
 		free(image);
 	}
 	return;
-	//free the data
 }
 
 #endif
