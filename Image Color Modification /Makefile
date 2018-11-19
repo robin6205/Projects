@@ -1,9 +1,9 @@
-TARGET = hw11
+TARGET = main
 GCC = gcc
 CFLAGS = -g -std=c99 -Wall -Wshadow -Wvla -Werror -pedantic
 CC = $(GCC) $(CFLAGS)
 
-SRCS = bmpimage.c hw11.c bmpfunc.c 
+SRCS = bmpimage.c main.c bmpfunc.c
 
 OBJS = $(SRCS:%.c=%.o)
 VALGRIND = valgrind --tool=memcheck --verbose --log-file
@@ -17,24 +17,24 @@ $(TARGET): $(OBJS)
 	$(CC) $(TESTFLAGS) $(OBJS) -o $(TARGET)
 
 testmemory: $(TARGET)
-	$(VALGRIND)=./valgrind.log ./hw11 exampleImages/CondProb.bmp output1.bmp
+	$(VALGRIND)=./valgrind.log ./main exampleImages/CondProb.bmp output1.bmp
 
 testall: test1 test2 test3 test4
 
-test1: hw11
-	./hw11 exampleImages/CondProb.bmp output1.bmp 1 2
+test1:
+	./main exampleImages/CondProb.bmp output1.bmp 1 2
 	diff output1.bmp expectedImages/expectedCondProb.bmp
 
-test2: hw11
-	./hw11 exampleImages/RV.bmp output2.bmp 5 2
+test2:
+	./main exampleImages/RV.bmp output2.bmp 5 2
 	diff output2.bmp expectedImages/expectedRV.bmp
 
-test3: hw11
-	./hw11 exampleImages/RV2.bmp output3.bmp 3 2
+test3:
+	./main exampleImages/RV2.bmp output3.bmp 3 2
 	diff output3.bmp expectedImages/expectedRV2.bmp
 
-test4: hw11
-	./hw11 exampleImages/RV2Small.bmp output4.bmp 11 2
+test4:
+	./main exampleImages/RV2Small.bmp output4.bmp 11 2
 	diff output4.bmp expectedImages/expectedRV2Small.bmp
 
 clean:
